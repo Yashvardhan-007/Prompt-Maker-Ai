@@ -16,6 +16,6 @@ A simple Python-based AI tool that **creates optimized prompts** for ChatGPT, DA
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/prompt-maker-ai.git
+git clone https://github.com/Yashvardhan-007/prompt-maker-ai.git
 cd prompt-maker-ai
 ```
